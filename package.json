@@ -1,6 +1,6 @@
 {
   "name": "ior",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ior parser",
   "main": "./dist/index.js",
   "scripts": {
