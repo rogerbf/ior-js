@@ -1,4 +1,4 @@
-<img src="https://github.com/rogerbf/ior/blob/master/ior-logo.png" width="200px" height="200px">
+<img src="https://raw.githubusercontent.com/rogerbf/ior/master/ior-logo.png" width="200px" height="200px">
 
 # IOR-JS
 
