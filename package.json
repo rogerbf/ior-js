@@ -1,7 +1,7 @@
 {
   "name": "ior",
   "version": "0.0.1",
-  "description": "",
+  "description": "ior parser",
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo 'no tests'",
@@ -9,7 +9,7 @@
     "build": "babel --ignore *.test.js --out-dir dist src",
     "prepublish": "npm run build"
   },
-  "keywords": [],
+  "keywords": ["parser", "ior"],
   "author": "rogerbf <roger@bergfalk.nu> (http://bergfalk.nu/)",
   "license": "MIT",
   "devDependencies": {
@@ -37,5 +37,13 @@
   "dependencies": {
     "indentation-length": "0.0.1",
     "object-from-string": "0.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerbf/ior-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rogerbf/ior-js/issues"
+  },
+  "homepage": "https://github.com/rogerbf/ior-js#readme"
 }
